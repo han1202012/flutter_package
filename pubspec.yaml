@@ -1,11 +1,11 @@
 # Dart 包名称
-name: flutter_package
+name: flutter_package_first_demo
 # 描述
 description: A new Flutter project.
 # 版本号
 version: 0.0.1
 # 主页 , 一般是 GitHub 的地址
-homepage:
+homepage: https://github.com/han1202012/flutter_package
 
 # 所需的环境
 environment:
